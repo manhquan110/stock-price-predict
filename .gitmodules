@@ -1,0 +1,3 @@
+[submodule "twitter_processing/GetOldTweets"]
+	path = twitter_processing/GetOldTweets
+	url = https://github.com/Jefferson-Henrique/GetOldTweets-java.git
