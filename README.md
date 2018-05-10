@@ -1,4 +1,4 @@
-``Datascience course - Final project: Analytic, predict UAL Stock price with twitter sentiment analysis.``
+Datascience course - Final project: Analytic, predict UAL Stock price with twitter sentiment analysis.
 
 ### Dataset 	
 
